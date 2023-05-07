@@ -1,4 +1,4 @@
-# StormTheFront
+# Storm The Front
 Game Project for 4231 at UNCC
 
 
